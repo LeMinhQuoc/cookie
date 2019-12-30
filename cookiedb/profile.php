@@ -1,4 +1,4 @@
 <?php 
 	 
- 	echo "wellcom: ".$result[0][1];
+ 	echo "wellcom: ".$result[0][3];
  ?>
